@@ -152,8 +152,8 @@
             <AcrylicBrush
                 x:Key="TextControlBackground"
                 BackgroundSource="HostBackdrop"
-                FallbackColor="{ThemeResource SolidBackgroundFillColorSecondary}"
-                TintColor="{ThemeResource SolidBackgroundFillColorSecondary}"
+                FallbackColor="{ThemeResource SolidBackgroundFillColorTertiary}"
+                TintColor="{ThemeResource SolidBackgroundFillColorTertiary}"
                 TintOpacity="1" />
 
             <!-- PreviewPane -->   
