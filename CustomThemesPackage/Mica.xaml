@@ -136,8 +136,8 @@
             <AcrylicBrush
                 x:Key="TabViewItemHeaderBackgroundPointerOver"
                 BackgroundSource="HostBackdrop"
-                FallbackColor="{ThemeResource SolidBackgroundFillColorSecondary}"
-                TintColor="{ThemeResource SolidBackgroundFillColorSecondary}"
+                FallbackColor="{ThemeResource SolidBackgroundFillColorQuarternary}"
+                TintColor="{ThemeResource SolidBackgroundFillColorQuarternary}"
                 TintOpacity="1" />
 
             <!-- Navigation Area Background -->
